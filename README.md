@@ -11,8 +11,7 @@
 
 [Sobre o Projeto](#-sobre-o-projeto) •
 [Interface & Funções](#-interface-e-funcionalidades-uiux) •
-[Como Executar](#-como-executar-passo-a-passo) •
-[Arquitetura](#-arquitetura-do-projeto)
+[Como Executar](#-como-executar-passo-a-passo) 
 
 </div>
 
