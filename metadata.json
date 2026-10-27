@@ -1,0 +1,6 @@
+{
+  "name": "PyCalc Studio — Calculadora CustomTkinter em Python 3.10+",
+  "description": "Simulador interativo e arquitetura modular Clean Code (main.py, interface.py, logica.py) para Calculadora Desktop em Python 3.10+ com CustomTkinter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
